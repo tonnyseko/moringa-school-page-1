@@ -1,0 +1,190 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    padding-right: 300px;
+    padding-left: 20px;
+}
+.navigation{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 200px;
+}
+#nav1{
+    color: #EC4067;
+    font-weight: 700;
+    font-size: xx-large;
+    margin: 0px;
+}
+#black-head{
+    color: black;
+}
+.navigation ul{
+    margin-top: -47px;
+    float: right;
+}
+.nav2{
+    margin: 20px;
+    font-size: large;
+    margin-top: 10px;
+    display: block;
+    float: left;
+
+
+}
+.nav2 a{
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+}
+.enroll-btn{
+    background-color: #EC4067;
+    border: 1px solid #EC4067;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: -10px;
+}
+.enroll-btn a{
+    color: white;
+}
+.container{
+    padding-top: 70px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.moringa{
+    padding: 10px;
+    line-height: 30px;
+    height: 400px;
+}
+.moringa p{
+    width: 580px;
+    font-size: 24px;
+}
+.moringa img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: -350px;
+    margin-left: 750px;
+    display: block;
+}
+h1{
+    color: #EC4067;
+    font-weight: 300;
+    font-size: xxx-large;
+}
+.enroll-now{
+    color: white;
+    font-size: large;
+    font-weight: 700;
+    background-color: #EC4067;
+    border: 1px solid #EC4067;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.explore{
+    margin-left: 20px;
+    color: #EC4067;
+    font-size: large;
+    font-weight: 500;
+    background-color: white;
+    border: 1px solid #EC4067;
+    padding: 10px 30px;
+    border-radius: 1px;
+}
+.stories-section{
+    margin-top: -150px;
+    padding-top: 100px;
+    height: 350px;
+}
+.stories{
+    padding-bottom: 10px;
+}
+.stories-1{
+    background-color: rgb(241, 236, 236);
+}
+.h3-small{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.stories-section img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 0px;
+    display: block;
+}
+.orientation-1{
+    display: block;
+    margin-top: -300px;
+    margin-left: 700px;
+    font-size: 24px;
+    width: 480px;
+}
+.board-meeting{
+    padding-top: 150px;
+    line-height: 30px;
+    height: 400px;
+}
+.board-meeting p{
+    width: 480px;
+    font-size: 24px;
+}
+.board-meeting img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: -250px;
+    margin-left: 520px;
+    display: block;
+}
+.tech-mentors{
+    padding-top: 180px;
+    height: 100px;
+}
+.techies{
+    float: left;
+    padding: 0 25px;
+    width: 21%;
+}
+
+#mentor-header{
+    margin-top: -45px;
+    color: lightgrey;
+}
+#mentor-role{
+    color: #EC4067;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.tech-mentor-1 button{
+    margin-bottom: 40px;
+}
+
+div.profiles img{
+    width: 100%;
+    height: 100%;
+}
+div.tech-mentor-1{
+    padding: 15px;
+    text-align: left;
+}
+.project{
+    margin-top: -150px;
+    width: 100%;
+    padding-bottom: 150px;
+}
+.contact-us{
+    padding-bottom: 100px;
+}
+.contact-us p{
+    font-size: 22px;
+}
+.footer{
+    height: 100px;
+    margin-top: 1360px;
+    background-color: lightgray;
+    width: 1470px;
+}
+.footer p{
+    text-align: center;
+    padding: 48px;
+}
